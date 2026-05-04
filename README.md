@@ -23,17 +23,29 @@ I prefer working smart — using AI for faster code generation and handling repe
 
 
 
-## 🌐 Connect With Me
+## 📫 Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rehan-tariq-4532573a6" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
   
-  <a href="https://x.com/rehantariq07">
-    <img src="https://cdn.simpleicons.org/x" height="40" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" height="45" />
   </a>
+
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" height="45" />
+  </a>
+
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="45" />
+  </a>
+
 </p>
+
+
 
 
 ## 🛠️ Languages & Tools
