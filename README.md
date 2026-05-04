@@ -34,9 +34,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:10px;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" /></a>
   
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/openai" height="50" style="margin:10px; filter: drop-shadow(0 0 5px #00f0ff);" />
-  </a>
+  <a href="#"> <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="50" style="margin:10px;" /> </a>
 </p>
 
 
