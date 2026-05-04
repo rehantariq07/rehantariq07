@@ -1,4 +1,20 @@
-## Hi there 👋
+# 👋 Hey there, I'm [Your Name]
+
+🚀 Passionate Web Developer | MERN Stack
+
+## 🧠 About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m learning ...
+- 💬 Ask me about React, JavaScript
+- 📫 Reach me at: your@email.com
+
+## 🌐 Connect With Me
+[LinkedIn](your-link) | [Instagram](your-link)
+
+## 🛠️ Languages & Tools
+![HTML](https://img.shields.io/badge/-HTML5-orange)
+![CSS](https://img.shields.io/badge/-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 <!--
 **rehantariq07/rehantariq07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
