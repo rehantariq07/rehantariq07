@@ -22,6 +22,8 @@ I prefer working smart — using AI for faster code generation and handling repe
 🎯 My goal is to build impactful digital products that solve real problems and make a difference in society.
 
 
+
+
 ## 📫 Reach Me
 
 - 📧 Email: contact.riri07@gmail.com  
@@ -30,6 +32,11 @@ I prefer working smart — using AI for faster code generation and handling repe
 - 🌐 Portfolio: https://your-portfolio-link.com  
 
 💬 I'm always open to collaboration, learning opportunities, and interesting projects.
+
+
+
+
+
 
 
 
