@@ -1,12 +1,26 @@
 # 👋 Hey there, I'm Rehan Tariq
 
-🚀 Passionate Web Developer | MERN Stack
 
-## 🧠 About Me
-- 🔭 I’m currently working on React+Vite, JS. Node.Js
-- 🌱 I’m learning Full Stack WEb & App Development
-- 💬 Ask me about React, JavaScript
-- 📫 Reach me at: contact.riri07@gmail.com
+## 👨‍💻 About Me
+
+I'm currently a **student and aspiring Full Stack Web Developer** with a strong vision for the future. My ultimate dream is to become a successful tech professional, build a strong name in the tech industry, and represent Pakistan on a global level while contributing positively to the world in the name of Islam.
+
+I am currently learning **Web Development** and have built a solid foundation in:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React (Vite)
+- Node.js
+
+I enjoy working in a **vibe coding environment** and actively use AI tools like **GitHub Copilot, Claude, Blackbox AI**, etc. to improve my productivity and speed. I focus more on **logic building, problem-solving, and UI/UX design** rather than just writing code.
+
+My mindset is to create **real-world solutions**, especially for problems that are often ignored or not properly addressed by governments or institutions. I believe that in the coming digital era, almost every problem can be solved through technology.
+
+I prefer working smart — using AI for faster code generation and handling repetitive tasks, while I focus on improving logic, structure, and design quality. I also refine and optimize code whenever needed to ensure performance and usability.
+
+🎯 My goal is to build impactful digital products that solve real problems and make a difference in society.
+
 
 
 ## 🌐 Connect With Me
