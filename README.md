@@ -21,11 +21,15 @@
   </a>
 </p>
 
+
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,git" />
+  <img src="https://cdn.simpleicons.org/openai" height="48" style="margin-left:10px;" />
 </p>
+
+
 
 
 
