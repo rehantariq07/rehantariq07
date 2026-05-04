@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Rehan Tariq
 
 🚀 Passionate Web Developer | MERN Stack
 
@@ -6,15 +6,33 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m learning ...
 - 💬 Ask me about React, JavaScript
-- 📫 Reach me at: your@email.com
+- 📫 Reach me at: contact.riri07@gmail.com
+
 
 ## 🌐 Connect With Me
-[LinkedIn](your-link) | [Instagram](your-link)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rehan-tariq-4532573a6">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://x.com/rehantariq07">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+</p>
+```
 
 ## 🛠️ Languages & Tools
-![HTML](https://img.shields.io/badge/-HTML5-orange)
-![CSS](https://img.shields.io/badge/-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs" />
+</p>
+```
+
+
+
+
+
+
 
 <!--
 **rehantariq07/rehantariq07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
