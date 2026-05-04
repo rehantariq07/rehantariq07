@@ -25,9 +25,20 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,git" />
-  <img src="https://cdn.simpleicons.org/openai" height="48" style="margin-left:10px;" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:10px;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" /></a>
+  
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/openai" height="50" style="margin:10px; filter: drop-shadow(0 0 5px #00f0ff);" />
+  </a>
 </p>
+
 
 
 
