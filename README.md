@@ -3,8 +3,8 @@
 🚀 Passionate Web Developer | MERN Stack
 
 ## 🧠 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m learning ...
+- 🔭 I’m currently working on React+Vite, JS. Node.Js
+- 🌱 I’m learning Full Stack WEb & App Development
 - 💬 Ask me about React, JavaScript
 - 📫 Reach me at: contact.riri07@gmail.com
 
