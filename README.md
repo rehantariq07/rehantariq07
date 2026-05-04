@@ -34,7 +34,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:10px;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" /></a>
   
- <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" style="margin:10px;" /> </a>
 </p>
 
 
