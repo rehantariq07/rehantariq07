@@ -51,6 +51,8 @@ I prefer working smart — using AI for faster code generation and handling repe
   <a href="https://x.com/rehantariq07">
     <img src="https://cdn.simpleicons.org/x" height="40" />
   </a>
+
+  <a href="mailto:your-email@gmail.com"> <img src="https://img.icons8.com/fluency/48/gmail.png" height="50" /> </a>
 </p>
 
 
