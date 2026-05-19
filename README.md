@@ -27,9 +27,9 @@ I prefer working smart — using AI for faster code generation and handling repe
 ## 📫 Reach Me
 
 - 📧 Email: contact.riri07@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rehan-tariq-4532573a6  
+- 💼 LinkedIn: https://www.linkedin.com/in/rehantariq07
 - 🐦 X (Twitter): https://x.com/rehantariq07  
-- 🌐 Portfolio: Coming Soon 🚧 
+- 🌐 Portfolio Website: https://rehantariq.netlify.app/
 
 💬 I'm always open to collaboration, learning opportunities, and interesting projects.
 
